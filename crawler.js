@@ -1,5 +1,5 @@
 //by Evan
-import {updateMask} from "/scene.js";
+import {updateMask} from "scene.js";
 
 //setup vars...
 var img_posts = [];
