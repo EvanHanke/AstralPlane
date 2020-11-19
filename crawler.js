@@ -65,6 +65,11 @@ $("#about").on("click", function(e){
   e.stopPropagation();
 });
 
+//about page
+$("#about_txt").on("click", function(e){
+  e.stopPropagation();
+});
+
 
 //
 //
