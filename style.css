@@ -1,0 +1,31 @@
+.float{
+  position: absolute;
+  text-align:right;
+  background-color:black;
+  color:white;
+  overflow: hidden;
+}
+
+#about{
+  position: absolute;
+  text-align:center;
+  background-color:white;
+  color:black;
+  overflow: hidden;
+  right:0;
+}
+
+#about_txt{
+  position: absolute;
+  text-align:center;
+  background-color:white;
+  color:grey;
+  overflow: hidden;
+  right:30%;
+  left:30%;
+  top:30%;
+  bottom:30%;
+  padding: 4%;
+  display: none;
+  z-index: 100;
+}
