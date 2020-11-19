@@ -7,12 +7,11 @@
 }
 
 #about{
-  position: absolute;
   text-align:center;
   background-color:white;
   color:black;
   overflow: hidden;
-  right:0;
+  width:60px;
 }
 
 #about_txt{
