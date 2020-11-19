@@ -44,7 +44,7 @@ scene.add(lightb);
 
 export var mask;
 
-loader.load( '/mask.glb', function ( gltf ) {
+loader.load( './mask.glb', function ( gltf ) {
 
 	scene.add( gltf.scene );
   mask = gltf.scene;
